@@ -38,7 +38,7 @@ public class AddressBook {
 	}
 
 	public static void main(String[] args) {
-		/*
+		
 		BuddyInfo testPerson1 = new BuddyInfo("Homer", 42, 250.1, true);
 		BuddyInfo testPerson2 = new BuddyInfo("Marge", 38, 125.0, true);
 		
@@ -61,7 +61,7 @@ public class AddressBook {
 		System.out.println("Current size of list is " + testBook.getSize() + " and should be 0");
 		System.out.println("Test pass = " + (testBook.getSize() == 0));
 		System.out.println("----------------------------------");
-		*/
+		
 	}
 	
 }
