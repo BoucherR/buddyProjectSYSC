@@ -1,6 +1,11 @@
 package lab2;
 import java.util.*;
 
+/**
+ * A linked list containing different buddyInfo objects. Add and remove functionality. 
+ * @author ryanboucher
+ */
+
 public class AddressBook {
 	
 	// Fields
