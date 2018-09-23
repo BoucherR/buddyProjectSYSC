@@ -1,5 +1,4 @@
-package lab2; 
-import java.util.*;
+package lab2;
 
 public class HelloWorld {
   public static void main(String[] args) {
